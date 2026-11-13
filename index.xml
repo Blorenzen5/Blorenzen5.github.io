@@ -10,43 +10,9 @@
 <atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog about sports and data</description>
 <generator>quarto-1.11.9</generator>
-<lastBuildDate>Mon, 02 Nov 2026 06:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 06:00:00 GMT</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
-  <link>https://your-website-url.example.com/posts/post-with-code/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>This is a post with executable code.</p>
-<div class="cell">
-<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
-background-color: null;
-font-style: inherit;">1</span></span></code></pre></div></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>[1] 2</code></pre>
-</div>
-</div>
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
-  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
-  <pubDate>Mon, 02 Nov 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg" height="96" width="144"/>
-</item>
-<item>
-  <title>CHANGE THIS TO BE THE TITLE OF YOUR POST</title>
+  <title>Do more homeruns equal more fans?</title>
   <dc:creator>Blake Lorenzen</dc:creator>
   <link>https://your-website-url.example.com/posts/baseball-homerun-wordseries-viewership/</link>
   <description><![CDATA[ 
@@ -327,7 +293,7 @@ font-style: inherit;">element_blank</span>()</span>
 </div>
 </div>
 </div>
-<p>hvbjhbvjhbjhb</p>
+<p>Home runs have shown to get fans loud and excited, but this data proves that it does not guarantee that fans will watch because of the long ball. Baseball is known to have one of the longest seasons for all of sports. The MLB could adopt a mid season tournament like the NBA to get fans excited year round. The long season has also led to many injuries and teams star players being injured, this could be leading to the lack of viewership. MLB and Rob Manfred need to figure out a way to bring the 70s spark back to basbeall.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -746,8 +712,42 @@ font-style: inherit;">"none"</span></span>
   <category>viewership</category>
   <category>worldseries</category>
   <guid>https://your-website-url.example.com/posts/baseball-homerun-wordseries-viewership/</guid>
+  <pubDate>Fri, 13 Nov 2026 06:00:00 GMT</pubDate>
+  <media:content url="https://your-website-url.example.com/posts/baseball-homerun-wordseries-viewership/image.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://your-website-url.example.com/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span></span></code></pre></div></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>[1] 2</code></pre>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://your-website-url.example.com/posts/post-with-code/</guid>
   <pubDate>Mon, 02 Nov 2026 06:00:00 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/baseball-homerun-wordseries-viewership/image.png" medium="image" type="image/png"/>
+  <media:content url="https://your-website-url.example.com/posts/post-with-code/image.jpg" medium="image" type="image/jpeg" height="96" width="144"/>
 </item>
 <item>
   <title>Welcome To My Blog</title>
